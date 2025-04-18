@@ -56,8 +56,8 @@ And ta-da! Instant art!
 
 📸 Example Output
 
-(Insert a cool screenshot of your output here)
 Watch those dots come together into something truly magical!
+![Hirst_spot_painting_Demo](https://github.com/user-attachments/assets/067d87d0-3243-4319-ba20-24fffdda2f4b)
 
 
 ---
