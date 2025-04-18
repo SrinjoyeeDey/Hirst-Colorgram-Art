@@ -40,6 +40,12 @@ You totally can!
 > It's like having your own digital paintbrush — controlled by code!
 
 ---
+📸 Example Output
+
+Watch those dots come together into something truly magical!
+![Hirst_spot_painting_Demo](https://github.com/user-attachments/assets/067d87d0-3243-4319-ba20-24fffdda2f4b)
+
+
 
 ## ⚙️ How to Run This Beauty
 
@@ -50,14 +56,6 @@ pip install colorgram.py
 python main.py
 
 And ta-da! Instant art!
-
-
----
-
-📸 Example Output
-
-Watch those dots come together into something truly magical!
-![Hirst_spot_painting_Demo](https://github.com/user-attachments/assets/067d87d0-3243-4319-ba20-24fffdda2f4b)
 
 
 ---
